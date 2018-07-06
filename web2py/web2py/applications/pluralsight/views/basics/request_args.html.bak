@@ -1,0 +1,5 @@
+{{extend 'layout.html'}}
+<h1>Request Args</h1>
+<h3>
+    this is the total is {{=total}}.
+</h3>
